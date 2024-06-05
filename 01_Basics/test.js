@@ -10,7 +10,8 @@ accountPassword = "21212121"
 accountCity = "Mumbai"
 
 /**
- * This is also one kind of comment.
+ * Prefer not to use var
+ * because of ussue in block scope and functional scope
  */
 console.log(accountId);
 
